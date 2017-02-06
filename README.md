@@ -1,6 +1,6 @@
-# Design Expo 2016
+# Design Expo 2017
 **Mike Dory**  
-**Wednesdays, 9:30-12 (2/17 - 4/6)**
+**Thursdays, 9:30-12 (2/23 - 4/13)**
 
 ## OVERVIEW
 
