@@ -12,9 +12,9 @@ Design Expo is an eight-week design challenge for students of [NYU ITP](http://i
 
 This app is built on [Cactus](https://github.com/koenbok/Cactus), so it's assumed you've already either installed that, or aren't planning on using the handy tools. To install, run:
 
-    sudo easy_install cactus
+    sudo pip install cactus
 
-I mean, they say to use `easy_install`, but assumedly doing so via Pip in a Virtualenv would suck less.  `¯\_(ツ)_/¯`.
+I mean, they say to use `easy_install`, but doing so via Pip in a Virtualenv sucks less.  `¯\_(ツ)_/¯`.
 
 
 ## Using
