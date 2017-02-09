@@ -4,3 +4,7 @@
 # cactus things
 .build
 .deploy
+
+# virtualenv things
+env/
+venv/
