@@ -46,4 +46,8 @@ Cactus likes to use the Clojure Compiler for JS, which you could install thusly:
 
     brew install closure-compiler
 
-That would have made me install Java again on my poor machine, so I have opted to pass, but add `.js` to the `optimize` array in `config.json` if you decide you're braver than I.
+This also means you'll need Java, which is easily installable like this:
+
+    brew install Caskroom/cask/java
+
+However, if you feel that's not your particular cup of tea, remove `.js` to from `optimize` array in `config.json` and it won't try to use closure-compiler.

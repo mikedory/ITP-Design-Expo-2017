@@ -7,7 +7,8 @@
         "css"
     ],
     "optimize": [
-        "css"
+        "css",
+        "js"
     ],
     "prettify": true
 }
